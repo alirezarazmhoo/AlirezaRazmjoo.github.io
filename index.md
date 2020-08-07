@@ -1,4 +1,6 @@
 # رزومه علیرضا رزمجو
+<img src="WhatsApp%20Image%202020-08-07%20at%2010.31.33%20PM.jpeg" alt="Girl in a jacket" width="100" height="50">
+
 
 ## مهات های من
 - Asp.NetCore 3.1
