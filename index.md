@@ -17,4 +17,4 @@
 
 ## نمونه کارها
 + طراحی FullStack  سایت یکی از شرکت های دانش بنیان با دات نت کور
-+ ![WebStiePicture](https://github.com/alirezarazmhoo/AlirezaRazmjoo.github.io/blob/gh-pages/6.png)
+<img src="https://github.com/alirezarazmhoo/AlirezaRazmjoo.github.io/blob/gh-pages/6.png" alt="hi" class="inline"/>
