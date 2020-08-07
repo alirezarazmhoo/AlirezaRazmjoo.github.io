@@ -25,7 +25,10 @@
 -
 -![Image](6.png)
 
-### ارتباط با من
+- سایت فروشگاهی سرزمین تجارت
+<img src="7.png" alt="Girl in a jacket" style="width:300px;height:250px">
 
- ایمیل : Alireza1539razmjoo@yahoo.com
- شماره تماس : 09136531539
+### ارتباط با من
+-  ایمیل : Alireza1539razmjoo@yahoo.com
+-  شماره تماس : 09136531539
+ 
