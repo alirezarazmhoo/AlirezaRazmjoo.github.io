@@ -22,11 +22,10 @@
 
 ## نمونه کارها
 + طراحی FullStack  سایت یکی از شرکت های دانش بنیان با دات نت کور
--
 -![Image](6.png)
 
 - سایت فروشگاهی سرزمین تجارت
-<img src="7.png" alt="Girl in a jacket" style="width:300px;height:250px">
+- <img src="7.png" alt="Girl in a jacket" style="width:300px;height:250px">
 
 ### ارتباط با من
 -  ایمیل : Alireza1539razmjoo@yahoo.com
