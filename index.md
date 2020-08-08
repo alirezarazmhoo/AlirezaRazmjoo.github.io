@@ -1,7 +1,7 @@
 
  <div style="text-align:center"><h2 dir="rtl" style="font-family:B Yekan">رزومه علیرضا رزمجو</h2></div>
  <hr style="width:100%"/>
- <div style="text-align:center"><img src="WhatsApp%20Image%202020-08-07%20at%2010.31.33%20PM.jpeg" alt="Girl in a jacket" width="150" height="100"></div>
+ <div style="text-align:center"><img src="WhatsApp%20Image%202020-08-07%20at%2010.31.33%20PM.jpeg" alt="Girl in a jacket" width="150" height="100" style="border-radius: 25px;"></div>
  <div style="text-align:center"><h2 dir="rtl" style="font-family:B Yekan">مهارت های من</h2></div>
  <hr style="width:100%"/>
  <div style="text-align:center;font-family:B Yekan">
@@ -50,7 +50,7 @@
  </p> 
 
  </div>
-  <hr style="width:100%"/>
+ <hr style="width:100%"/>
  <div style="text-align:center"><h2 dir="rtl" style="font-family:B Yekan">تجارب کاری</h2></div>
  <div style="text-align:center;font-family:B Yekan">
    <p>
@@ -65,19 +65,27 @@
    
   طراحی و پیاده سازی سرور برای آپ های موبایل
  </p>
+ 
   <p>
    
   مدیریت پروژه های تیمی
  </p>
 </div>
+ <hr style="width:100%"/>
+ <div style="text-align:center"><h2 dir="rtl" style="font-family:B Yekan">نمونه کارها</h2></div>
+ <div style="text-align:center;font-family:B Yekan">
+   <p>
+   
+  طراحی FullStack  سایت یکی از شرکت های دانش بنیان با دات نت کور
+ </p>
+ <div style="text-align:center"><img src="6.png" alt="Girl in a jacket" width="150" height="100" style="border-radius: 25px;"></div>
+  <p>
+   
+ سایت فروشگاهی سرزمین تجارت
+ </p>
+ <div style="text-align:center"><img src="7.png" alt="Girl in a jacket" width="150" height="100" style="border-radius: 25px;"></div>
+</div>
 
-
-## نمونه کارها
-+ طراحی FullStack  سایت یکی از شرکت های دانش بنیان با دات نت کور
--![Image](6.png)
-
-- سایت فروشگاهی سرزمین تجارت
-- <img src="7.png" alt="Girl in a jacket" style="width:300px;height:250px">
 
 ### ارتباط با من
 -  ایمیل : Alireza1539razmjoo@yahoo.com
