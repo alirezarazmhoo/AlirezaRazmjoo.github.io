@@ -1,5 +1,4 @@
-
-### رزومه علیرضا رزمجو
+- <h2 dir="rtl">رزومه علیرضا رزمجو</h2>
 <img src="WhatsApp%20Image%202020-08-07%20at%2010.31.33%20PM.jpeg" alt="Girl in a jacket" width="150" height="100">
 
 
