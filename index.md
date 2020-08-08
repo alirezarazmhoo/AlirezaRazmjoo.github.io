@@ -1,9 +1,7 @@
 
 - <div style="text-align:center"><h2 dir="rtl" style="font-family:B Yekan">رزومه علیرضا رزمجو</h2></div>
-<img src="WhatsApp%20Image%202020-08-07%20at%2010.31.33%20PM.jpeg" alt="Girl in a jacket" width="150" height="100">
-
-
-## مهات های من
+- <div style="text-align:center"><img src="WhatsApp%20Image%202020-08-07%20at%2010.31.33%20PM.jpeg" alt="Girl in a jacket" width="150" height="100"></div>
+- <div style="text-align:right"><h2 dir="rtl" style="font-family:B Yekan">مهات های من</h2></div>
 - Asp.NetCore 3.1
 - Asp.NetCore WebApi
 - Asp.NetMvc5
