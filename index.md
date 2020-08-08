@@ -1,7 +1,10 @@
 
  <div style="text-align:center"><h2 dir="rtl" style="font-family:B Yekan">رزومه علیرضا رزمجو</h2></div>
  <hr style="width:100%"/>
- <div style="text-align:center"><img src="WhatsApp%20Image%202020-08-07%20at%2010.31.33%20PM.jpeg" alt="Girl in a jacket" width="150" height="100" style="border-radius: 25px;"></div>
+ <div style="text-align:center"><img src="WhatsApp%20Image%202020-08-07%20at%2010.31.33%20PM.jpeg" alt="Girl in a jacket" width="150" height="100" style="border-radius: 25px;">
+ <p  style="font-family:B Yekan;text-align:right">سلام ، من علیرضا رزمجو هستم ، نمونه پروژه های من را می توانید در ریپازیتوری های گیت های من مشاهده کنید</p>
+
+</div>
  <div style="text-align:center"><h2 dir="rtl" style="font-family:B Yekan">مهارت های من</h2></div>
  <hr style="width:100%"/>
  <div style="text-align:center;font-family:B Yekan">
@@ -85,8 +88,14 @@
  </p>
  <div style="text-align:center"><img src="7.png" alt="Girl in a jacket" width="150" height="100" style="border-radius: 25px;"></div>
 </div>
-
-
-### ارتباط با من
--  ایمیل : Alireza1539razmjoo@yahoo.com
--  شماره تماس : 09136531539
+ <hr style="width:100%"/>
+ <div style="text-align:center"><h2 dir="rtl" style="font-family:B Yekan">ارتباط با من</h2></div>
+<div style="text-align:center;font-family:B Yekan">
+   <p>
+   
+ایمیل : Alireza1539razmjoo@yahoo.com
+ </p>
+   <p>
+شماره تماس : 09136531539
+ </p>
+ </div>
