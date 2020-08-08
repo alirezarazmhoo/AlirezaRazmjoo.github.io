@@ -5,19 +5,50 @@
  <div style="text-align:center"><h2 dir="rtl" style="font-family:B Yekan">مهات های من</h2></div>
  <hr style="width:100%"/>
  <div style="text-align:center;font-family:B Yekan">
-  Asp.NetCore 3.1
- Asp.NetCore WebApi
+ <p>
+    Asp.NetCore 3.1
+ </p>
+ <p>
+    Asp.NetCore WebApi
+ </p>
+  <p>
+   
  Asp.NetMvc5
- C# 
+ </p>
+   <p>
+   
+  C# 
+ </p>
+  <p>
+   
  SqlServer
- CSS
- Html
- Javascript
- Angular9
- Git
- GitHub
+ </p>
+ <p>
+   
+  CSS
+ </p>
+ <p>
+   
+  Javascript
+ </p>
+  <p>
+   
+  Html
+ </p>
+  <p>
+   
+  Angular9
+ </p>
+   <p>
+   
+  Git
+ </p>
+   <p>
+   
+  GitHub
 
- 
+ </p> 
+
  </div>
 
 ## تجارب کاری
